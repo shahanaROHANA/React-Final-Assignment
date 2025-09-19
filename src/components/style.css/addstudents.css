@@ -1,0 +1,30 @@
+#add{
+    font-size: 50px;
+    text-align:center ;
+}
+#main-addstudent{
+    
+    margin-top: 150px;
+    background-color: bisque;
+}
+#form{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+#input1{
+    width: 500px;
+    height: 30px;
+    border-radius: 8px;
+    border-width: 1px;
+}
+#name,#email,#course,#age{
+    font-size: 30px;
+}
+#btn-addstudents{
+    width: 500px;
+    height: 35px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
